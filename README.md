@@ -30,7 +30,7 @@ All the data inside this panel is dynamic and on changing direct reflected to UI
 
 There are Authenticated roles and navigations for user and admin.User can't Access admin panel.
 
-
+I have handle all the form validations.
 
 
 
